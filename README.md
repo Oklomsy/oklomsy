@@ -9,5 +9,6 @@
 
 - 📫 How to reach me ...
 <br>Email: abdul@oklomsy.com
-<br>PGP-Key: https://oklomsy.com/pgp.html
+<br>PGP Key: https://oklomsy.com/pgp.html
 <br>Element.io: @oklomsy2:matrix.org
+<br>Keybase: https://keybase.io/oklomsy2
